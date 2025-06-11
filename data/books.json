@@ -1,20 +1,155 @@
 [
   {
-    "id": "f8e8109f-83f0-40ed-a122-cd7300eabdb7",
-    "genre": "5841",
-    "title": "0000",
-    "author": "0000",
-    "year": 20555553,
-    "description": "A sharp and funny modern-day romantic comedy novel.",
-    "image": "https://m.media-amazon.com/images/I/81T2CVWEsUL.jpg"
+    "id": "a1d9cf71-7a32-4bc5-9a90-99dbf3d2db51",
+    "genre": "Science Fiction",
+    "title": "Quantum Latte",
+    "author": "Nova Breach",
+    "year": 2072,
+    "description": "A barista discovers her coffee shop exists in multiple timelines—and one of them wants her gone.",
+    "image": "https://m.media-amazon.com/images/I/71U3UjK4uXL.jpg"
   },
   {
-    "id": "b8fdf9bf-2b85-453a-94a6-359bb05770df",
-    "genre": "Comedy",
-    "title": "8445555",
-    "author": "tyyyyyyyyyyyyyyy",
-    "year": 20555553,
-    "description": "A sharp and funny modern-day romantic comedy novel.",
-    "image": "https://m.media-amazon.com/images/I/81T2CVWEsUL.jpg"
+    "id": "b4f0e21c-1a2a-4df3-a923-548acf6a04c9",
+    "genre": "Fantasy",
+    "title": "The Dragon's Library",
+    "author": "Talia Flameheart",
+    "year": 2035,
+    "description": "A shy librarian finds a hidden portal in the archives that leads to a realm guarded by dragons.",
+    "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg"
+  },
+  {
+    "id": "c8298e7e-f50f-4e5f-94ef-d5f9e3ffdf38",
+    "genre": "Mystery",
+    "title": "Midnight at the Crosswalk",
+    "author": "Ivy Lanes",
+    "year": 2029,
+    "description": "A detective investigates why strangers vanish at the same intersection every Friday night.",
+    "image": "https://m.media-amazon.com/images/I/71Q1Iu4suSL.jpg"
+  },
+  {
+    "id": "d7030a2a-8a84-4575-8e06-dfa49ed3db4c",
+    "genre": "Historical Fiction",
+    "title": "Letters from the Lantern",
+    "author": "Miles Ashcroft",
+    "year": 1991,
+    "description": "A series of forgotten letters shed light on a forbidden romance during the Victorian era.",
+    "image": "https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg"
+  },
+  {
+    "id": "e5c4f899-38c7-4a3e-bc1c-453d51f40237",
+    "genre": "Romance",
+    "title": "Espresso Kisses",
+    "author": "Clara Bean",
+    "year": 2022,
+    "description": "Two rival coffee shop owners in Seattle unexpectedly fall for each other during a city-wide barista competition.",
+    "image": "https://m.media-amazon.com/images/I/81iqZ2HHD-L.jpg"
+  },
+  {
+    "id": "f26e7cf6-fac0-4df7-9e4c-8f014f9a2c25",
+    "genre": "Horror",
+    "title": "The Eighth Door",
+    "author": "Vera Hollow",
+    "year": 2020,
+    "description": "Tenants in an old apartment complex discover a hidden door that should never be opened.",
+    "image": "https://m.media-amazon.com/images/I/81WcnNQ-TBL.jpg"
+  },
+  {
+    "id": "g987c3d4-7bc2-4c98-87b5-48fbb6c3d231",
+    "genre": "Adventure",
+    "title": "Skybound",
+    "author": "Leo Mapwright",
+    "year": 2041,
+    "description": "A group of teenagers launch a homemade airship to explore the uncharted skies of a floating world.",
+    "image": "https://m.media-amazon.com/images/I/81vpsIs58WL.jpg"
+  },
+  {
+    "id": "h54bc1e8-62a1-49a2-a933-3527f117db63",
+    "genre": "Thriller",
+    "title": "Code: Mercury",
+    "author": "Xavier DeLune",
+    "year": 2030,
+    "description": "A cybersecurity expert races against time to stop a virus that could collapse the global economy.",
+    "image": "https://m.media-amazon.com/images/I/71HMyqG6MRL.jpg"
+  },
+  {
+    "id": "i8420f77-443b-4a80-8e87-518e9c26f07f",
+    "genre": "Young Adult",
+    "title": "Starlight Pact",
+    "author": "Rae Orion",
+    "year": 2025,
+    "description": "Five teens discover they were chosen to protect Earth from a cosmic threat—if they can stop fighting first.",
+    "image": "https://m.media-amazon.com/images/I/81drfTT9ZfL.jpg"
+  },
+  {
+    "id": "j1a9e65e-6c31-4b9f-97cb-fb889bdf6cf7",
+    "genre": "Biography",
+    "title": "Voice of the Wind",
+    "author": "Elias Marsh",
+    "year": 2018,
+    "description": "The life story of a deaf environmentalist who became a global symbol of resilience.",
+    "image": "https://m.media-amazon.com/images/I/81wgcld4wxL.jpg"
+  },
+  {
+    "id": "k29c0642-5b0e-4c62-96cd-2296e12e755e",
+    "genre": "Non-fiction",
+    "title": "The Thinking Machine",
+    "author": "Dr. Karen Tull",
+    "year": 2021,
+    "description": "An accessible breakdown of how artificial intelligence is shaping the 21st century.",
+    "image": "https://m.media-amazon.com/images/I/71UwSHSZRnS.jpg"
+  },
+  {
+    "id": "l7dd46b1-cc85-49d0-8c4d-e153b8bc0f72",
+    "genre": "Poetry",
+    "title": "Saltwater Verses",
+    "author": "Niko Swan",
+    "year": 2019,
+    "description": "A lyrical journey of grief and healing through ocean imagery and stormy metaphors.",
+    "image": "https://m.media-amazon.com/images/I/81r3FVfNG3L.jpg"
+  },
+  {
+    "id": "m904e06f-6fd4-4dd3-9b76-7648910c88aa",
+    "genre": "Self-Help",
+    "title": "Breathe. Reset. Begin.",
+    "author": "Tina Voss",
+    "year": 2023,
+    "description": "Simple techniques to help anxious minds find calm, purpose, and a fresh start.",
+    "image": "https://m.media-amazon.com/images/I/81dQwQlmAXL.jpg"
+  },
+  {
+    "id": "n1f01db1-1132-49eb-bb52-f090d71e3e4b",
+    "genre": "Graphic Novel",
+    "title": "Neon Alley",
+    "author": "Kazuki Shin",
+    "year": 2033,
+    "description": "In a neon-soaked city, a graffiti artist rebels against a mind-controlling media empire.",
+    "image": "https://m.media-amazon.com/images/I/81gepf1eMqL.jpg"
+  },
+  {
+    "id": "o2cfe891-8679-4f10-b920-d9093c45e2df",
+    "genre": "Philosophy",
+    "title": "The Egg and the Echo",
+    "author": "Soren Veld",
+    "year": 2005,
+    "description": "A meditation on selfhood, reincarnation, and what it means to be a single consciousness in many lives.",
+    "image": "https://m.media-amazon.com/images/I/710jnzKlDTL.jpg"
+  },
+  {
+    "id": "p5b1fd37-9892-4e0e-b1cd-8f3bb90a1b1f",
+    "genre": "Spirituality",
+    "title": "Whispers from Within",
+    "author": "Anjali Devi",
+    "year": 2020,
+    "description": "A reflective guide to tuning into your intuition and finding peace in everyday chaos.",
+    "image": "https://m.media-amazon.com/images/I/81af+MCATTL.jpg"
+  },
+  {
+    "id": "q8a9f561-e66d-456b-899e-1ec8e19005b2",
+    "genre": "True Crime",
+    "title": "The Maple Street Murders",
+    "author": "Diane Harker",
+    "year": 2017,
+    "description": "An investigative look into the unsolved killings that haunted a quiet Canadian town for a decade.",
+    "image": "https://m.media-amazon.com/images/I/91OINeHnJGL.jpg"
   }
 ]

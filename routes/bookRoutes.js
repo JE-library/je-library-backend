@@ -11,7 +11,31 @@ router.get("/books", async (req, res) => {
   const message = successResponse("Books Retrieved Succesfully!", allBooks);
   res.json(message);
 });
-
+////////////////////////////////////////////////////////////// SEARCHING A BOOK BY TITLE
+router.get("/books/search", async (req, res) => {
+  //getting querry from url
+  const querry = req.query.title.toLowerCase().trim();
+  //getting all books
+  const allBooks = await readFile("books.json");
+  //finding matching books
+  const matchedBooks = allBooks.filter((book) => {
+    return book.title.toLowerCase().includes(querry);
+  });
+  if (!matchedBooks[0]) {
+    const message = errorResponse(
+      `Sorry!.. Book with titile ${req.query.title.trim()} not found!`,
+      null,
+      `Sorry!.. Book with titile ${req.query.title.trim()} not found!`
+    );
+    return res.json(message);
+  }
+  //sending all matched books
+  const message = successResponse(
+    `Books matching the titile ${req.query.title.trim()}`,
+    matchedBooks
+  );
+  res.json(message);
+});
 //////////////////////////////////////////////////////// GETTING A SINGLE BOOK
 router.get("/books/:id", async (req, res) => {
   //getting id from url
@@ -35,7 +59,6 @@ router.get("/books/:id", async (req, res) => {
 ////////////////////////////////////////////////////////////// ADDING A BOOK
 router.post("/books", async (req, res) => {
   // getiting data from  request body and validating
-
   const { value, error } = addBookSchema.validate(req.body);
   if (error) {
     const message = errorResponse(
