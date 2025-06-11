@@ -1,12 +1,12 @@
-const swaggerAutogen = require('swagger-autogen')();
+const swaggerAutogen = require("swagger-autogen")();
 
 const doc = {
   info: {
     title: "library Management App",
     description: "description",
   },
-  host: "https://je-library-backend.onrender.com",
-  schemes: ['https'],
+  host: "je-library-backend.onrender.com",
+  schemes: ["https"],
 };
 
 const outputFile = "./swagger-output.json ";
