@@ -5,7 +5,7 @@ const doc = {
     title: "library Management App",
     description: "description",
   },
-  host: "je-library-backend.onrender.com",
+  host: "je-library-backend-x2gh.onrender.com",
   schemes: ["https"],
 };
 
