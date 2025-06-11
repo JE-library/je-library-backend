@@ -151,5 +151,23 @@
     "year": 2017,
     "description": "An investigative look into the unsolved killings that haunted a quiet Canadian town for a decade.",
     "image": "https://m.media-amazon.com/images/I/91OINeHnJGL.jpg"
+  },
+  {
+    "id": "408770d7-e564-41c5-a434-baad5f94c5c6",
+    "genre": "Comedy",
+    "title": "Pizza, Please!",
+    "author": "Jess B. Crusty",
+    "year": 2047,
+    "description": "A hilarious tale of a pizza delivery driver who accidentally gets mistaken for a secret agent.",
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg"
+  },
+  {
+    "id": "1208c865-a871-4430-b928-781344b88654",
+    "genre": "7777",
+    "title": "7777",
+    "author": "Jess B.",
+    "year": 2047,
+    "description": "A hilarious tale of a pizza delivery driver who accidentally gets mistaken for a secret agent.",
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg"
   }
 ]

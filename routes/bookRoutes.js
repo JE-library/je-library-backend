@@ -58,6 +58,7 @@ router.get("/books/:id", async (req, res) => {
 
 ////////////////////////////////////////////////////////////// ADDING A BOOK
 router.post("/books", async (req, res) => {
+  const { genre, title, author, year, description, image } = req.body;
   // getiting data from  request body and validating
   const { value, error } = addBookSchema.validate(req.body);
   if (error) {
