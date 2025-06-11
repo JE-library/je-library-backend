@@ -7,6 +7,7 @@ const doc = {
   },
   host: "je-library-backend.onrender.com",
   //   host: "localhost:5000",
+  schemes: ["https"],
 };
 
 const outputFile = "./swagger-output.json ";

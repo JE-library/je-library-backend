@@ -8,7 +8,7 @@
   "host": "je-library-backend.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/books": {
