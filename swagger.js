@@ -5,7 +5,8 @@ const doc = {
     title: "library Management App",
     description: "description",
   },
-  host: "https://je-library-backend.onrender.com",
+  host: "je-library-backend.onrender.com",
+  schemes: ["https"],
 };
 
 const outputFile = "./swagger-output.json ";
