@@ -1,173 +1,193 @@
 [
   {
-    "id": "a1d9cf71-7a32-4bc5-9a90-99dbf3d2db51",
-    "genre": "Science Fiction",
-    "title": "Quantum Latte",
-    "author": "Nova Breach",
-    "year": 2072,
-    "description": "A barista discovers her coffee shop exists in multiple timelines—and one of them wants her gone.",
-    "image": "https://m.media-amazon.com/images/I/71U3UjK4uXL.jpg"
+    "genre": "Graphic Novel / Horror",
+    "title": "The Walking Dead, Vol. 1: Days Gone Bye",
+    "author": "Robert Kirkman, Tony Moore",
+    "year": 2004,
+    "id": "9781582403588",
+    "description": "Rick Grimes, a sheriff’s deputy, awakens from a coma to find the world overrun by zombies. This volume collects issues #1–6 and begins his harrowing journey through a post‑apocalyptic America.",
+    "image": "https://m.media-amazon.com/images/I/51kHB2jrLCL._SY445_SX342_.jpg"
   },
   {
-    "id": "b4f0e21c-1a2a-4df3-a923-548acf6a04c9",
-    "genre": "Fantasy",
-    "title": "The Dragon's Library",
-    "author": "Talia Flameheart",
-    "year": 2035,
-    "description": "A shy librarian finds a hidden portal in the archives that leads to a realm guarded by dragons.",
-    "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg"
+    "genre": "Self-Help / Relationships",
+    "title": "Why Men Love Bitches: From Doormat to Dreamgirl",
+    "author": "Sherry Argov",
+    "year": 2002,
+    "id": "9781580627566",
+    "description": "A bold relationship guide advocating that confident, self-respecting women—those who stand their ground—are more attractive to men than passive doormats.",
+    "image": "https://cdn1.bookmanager.com/i/m.php?b=v0z72WqzF3EvcGS75DCCFw&cb=1558228586"
   },
   {
-    "id": "c8298e7e-f50f-4e5f-94ef-d5f9e3ffdf38",
-    "genre": "Mystery",
-    "title": "Midnight at the Crosswalk",
-    "author": "Ivy Lanes",
-    "year": 2029,
-    "description": "A detective investigates why strangers vanish at the same intersection every Friday night.",
-    "image": "https://m.media-amazon.com/images/I/71Q1Iu4suSL.jpg"
-  },
-  {
-    "id": "d7030a2a-8a84-4575-8e06-dfa49ed3db4c",
-    "genre": "Historical Fiction",
-    "title": "Letters from the Lantern",
-    "author": "Miles Ashcroft",
-    "year": 1991,
-    "description": "A series of forgotten letters shed light on a forbidden romance during the Victorian era.",
-    "image": "https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg"
-  },
-  {
-    "id": "e5c4f899-38c7-4a3e-bc1c-453d51f40237",
-    "genre": "Romance",
-    "title": "Espresso Kisses",
-    "author": "Clara Bean",
-    "year": 2022,
-    "description": "Two rival coffee shop owners in Seattle unexpectedly fall for each other during a city-wide barista competition.",
-    "image": "https://m.media-amazon.com/images/I/81iqZ2HHD-L.jpg"
-  },
-  {
-    "id": "f26e7cf6-fac0-4df7-9e4c-8f014f9a2c25",
-    "genre": "Horror",
-    "title": "The Eighth Door",
-    "author": "Vera Hollow",
-    "year": 2020,
-    "description": "Tenants in an old apartment complex discover a hidden door that should never be opened.",
-    "image": "https://m.media-amazon.com/images/I/81WcnNQ-TBL.jpg"
-  },
-  {
-    "id": "g987c3d4-7bc2-4c98-87b5-48fbb6c3d231",
-    "genre": "Adventure",
-    "title": "Skybound",
-    "author": "Leo Mapwright",
-    "year": 2041,
-    "description": "A group of teenagers launch a homemade airship to explore the uncharted skies of a floating world.",
-    "image": "https://m.media-amazon.com/images/I/81vpsIs58WL.jpg"
-  },
-  {
-    "id": "h54bc1e8-62a1-49a2-a933-3527f117db63",
-    "genre": "Thriller",
-    "title": "Code: Mercury",
-    "author": "Xavier DeLune",
-    "year": 2030,
-    "description": "A cybersecurity expert races against time to stop a virus that could collapse the global economy.",
-    "image": "https://m.media-amazon.com/images/I/71HMyqG6MRL.jpg"
-  },
-  {
-    "id": "i8420f77-443b-4a80-8e87-518e9c26f07f",
-    "genre": "Young Adult",
-    "title": "Starlight Pact",
-    "author": "Rae Orion",
+    "genre": "Middle‑Grade Historical Fiction / Adventure",
+    "title": "One Wrong Step",
+    "author": "Jennifer A. Nielsen",
     "year": 2025,
-    "description": "Five teens discover they were chosen to protect Earth from a cosmic threat—if they can stop fighting first.",
-    "image": "https://m.media-amazon.com/images/I/81drfTT9ZfL.jpg"
+    "id": "9781338275865",
+    "description": "Twelve‑year‑old Atlas Wade must brave an avalanche on Mount Everest in 1939 to rescue his father and others, confronting grief, survival, and the looming threat of WWII.",
+    "image": "https://m.media-amazon.com/images/I/811jmI-pHsL.jpg"
   },
   {
-    "id": "j1a9e65e-6c31-4b9f-97cb-fb889bdf6cf7",
-    "genre": "Biography",
-    "title": "Voice of the Wind",
-    "author": "Elias Marsh",
-    "year": 2018,
-    "description": "The life story of a deaf environmentalist who became a global symbol of resilience.",
-    "image": "https://m.media-amazon.com/images/I/81wgcld4wxL.jpg"
-  },
-  {
-    "id": "k29c0642-5b0e-4c62-96cd-2296e12e755e",
-    "genre": "Non-fiction",
-    "title": "The Thinking Machine",
-    "author": "Dr. Karen Tull",
+    "genre": "Historical Fiction / Middle Grade",
+    "title": "Resistance",
+    "author": "Jennifer A. Nielsen",
     "year": 2021,
-    "description": "An accessible breakdown of how artificial intelligence is shaping the 21st century.",
-    "image": "https://m.media-amazon.com/images/I/71UwSHSZRnS.jpg"
+    "id": "9781338148503",
+    "description": "Set in Nazi-occupied Poland, teenager Chaya Lindner uses forged identity papers and courage to carry food, documents, and people between Jewish ghettos, later joining a resistance cell amid the Warsaw Ghetto Uprising.",
+    "image": "https://m.media-amazon.com/images/I/81X-e7gXAyL.jpg"
   },
   {
-    "id": "l7dd46b1-cc85-49d0-8c4d-e153b8bc0f72",
-    "genre": "Poetry",
-    "title": "Saltwater Verses",
-    "author": "Niko Swan",
-    "year": 2019,
-    "description": "A lyrical journey of grief and healing through ocean imagery and stormy metaphors.",
-    "image": "https://m.media-amazon.com/images/I/81r3FVfNG3L.jpg"
+    "genre": "Reference / Genealogy",
+    "title": "The Genealogy Do-Over Workbook",
+    "author": "Thomas MacEntee",
+    "year": 2016,
+    "id": "9781523266968",
+    "description": "A practical workbook guiding genealogists step‑by‑step through re‑evaluating and improving their research processes, with checklists, worksheets, and a year‑long ‘do‑over’ plan.",
+    "image": "https://m.media-amazon.com/images/I/61q+oEidfiL._SY425_.jpg"
   },
   {
-    "id": "m904e06f-6fd4-4dd3-9b76-7648910c88aa",
-    "genre": "Self-Help",
-    "title": "Breathe. Reset. Begin.",
-    "author": "Tina Voss",
+    "genre": "Technology / Machine Learning",
+    "title": "Machine Learning System Design Interview",
+    "author": "Ali Aminian, Alex Xu",
     "year": 2023,
-    "description": "Simple techniques to help anxious minds find calm, purpose, and a fresh start.",
-    "image": "https://m.media-amazon.com/images/I/81dQwQlmAXL.jpg"
+    "id": "9781736049129",
+    "description": "Provides a 7‑step framework and 10 real‑world ML system design interview questions—such as recommendation systems, search, content detection—supported by 211 diagrams to help engineers prepare for ML design interviews.",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676447860i/120532868.jpg"
   },
   {
-    "id": "n1f01db1-1132-49eb-bb52-f090d71e3e4b",
-    "genre": "Graphic Novel",
-    "title": "Neon Alley",
-    "author": "Kazuki Shin",
-    "year": 2033,
-    "description": "In a neon-soaked city, a graffiti artist rebels against a mind-controlling media empire.",
-    "image": "https://m.media-amazon.com/images/I/81gepf1eMqL.jpg"
-  },
-  {
-    "id": "o2cfe891-8679-4f10-b920-d9093c45e2df",
-    "genre": "Philosophy",
-    "title": "The Egg and the Echo",
-    "author": "Soren Veld",
+    "genre": "New Age / Spirituality",
+    "title": "Angel Numbers: The Angels Explain the Meaning of 111, 444, and Other Numbers in Your Life",
+    "author": "Doreen Virtue, Lynnette Brown",
     "year": 2005,
-    "description": "A meditation on selfhood, reincarnation, and what it means to be a single consciousness in many lives.",
-    "image": "https://m.media-amazon.com/images/I/710jnzKlDTL.jpg"
+    "id": "9781401905156",
+    "description": "A guide to understanding the spiritual messages behind recurring number sequences—111, 444, 777, etc.—and how angels use them to communicate guidance in everyday life.",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388294513i/365120.jpg"
+  },
+
+  {
+    "genre": "Psychological Thriller",
+    "title": "The Housemaid's Secret",
+    "author": "Freida McFadden",
+    "year": 2023,
+    "id": "9780349132617",
+    "description": "Millie, a housemaid with a mysterious past, takes a job with the wealthy Garrick family—and soon uncovers chilling secrets, blood-stained nightgowns, and a web of deceit that threatens everyone in the penthouse.",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646534743i/60556912.jpg"
   },
   {
-    "id": "p5b1fd37-9892-4e0e-b1cd-8f3bb90a1b1f",
-    "genre": "Spirituality",
-    "title": "Whispers from Within",
-    "author": "Anjali Devi",
+    "genre": "Young Adult / Urban Fantasy",
+    "title": "Glass Houses: The Morganville Vampires – Book One",
+    "author": "Rachel Caine",
+    "year": 2006,
+    "id": "9780451219947",
+    "description": "When college freshman Claire Danvers moves into a house in Morganville, Texas, she discovers her roommates are protective, strange—and the town is run by vampires. She must navigate a deadly secret world to survive.",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428057864i/27266.jpg"
+  },
+  {
+    "genre": "Young Adult / Graphic Novel",
+    "title": "Roller Girl",
+    "author": "Victoria Jamieson",
+    "year": 2015,
+    "id": "9780803740167",
+    "description": "Astrid enters roller derby camp one summer and discovers independence, friendship shifts, and self‑confidence through the sport—earning a Newbery Honor in the process.",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590972371i/53716927.jpg"
+  },
+  {
+    "genre": "Textbook",
+    "title": "Essentials of Health Policy and Law",
+    "author": "Sara E. Wilensky, Joel B. Teitelbaum",
+    "year": 2022,
+    "id": "9781284247459",
+    "description": "A comprehensive introduction to U.S. health policy and law, covering topics like the Affordable Care Act, health insurance programs (Medicaid, Medicare, CHIP), public health preparedness, social determinants of health, and how to conduct policy analysis.",
+    "image": "https://ia801909.us.archive.org/view_archive.php?archive=/31/items/l_covers_0013/l_covers_0013_86.zip&file=0013861701-L.jpg"
+  },
+  {
+    "genre": "Historical Fiction / Folk Horror",
+    "title": "Lapvona: A Novel",
+    "author": "Ottessa Moshfegh",
+    "year": 2022,
+    "id": "9780593300268",
+    "description": "Set in a brutal medieval fiefdom, a deformed 13‑year‑old shepherd’s son is swept into a power struggle involving witchcraft, famine, corruption, and ruthless nobility.",
+    "image": "https://s3.amazonaws.com/media.thecrimson.com/photos/2022/04/04/203320_1355474.jpeg"
+  },
+  {
+    "genre": "Textbook / Political Science",
+    "title": "Essential Readings in Canadian Government and Politics, 2nd Edition",
+    "author": "Peter H. Russell, François Rocher, Debra Elizabeth Thompson, Amanda Bittner",
+    "year": 2015,
+    "id": "9781552396629",
+    "description": "A curated collection of foundational essays, speeches, debates and reports covering Canadian political institutions, federalism, representative democracy, diversity, constitutional politics and the Charter—designed as an essential reader for Canadian politics courses.",
+    "image": "https://ia800505.us.archive.org/view_archive.php?archive=/35/items/l_covers_0014/l_covers_0014_35.zip&file=0014359578-L.jpg"
+  },
+  {
+    "genre": "Technology / Web Development",
+    "title": "HTML & CSS: Design and Build Websites",
+    "author": "Jon Duckett",
+    "year": 2011,
+    "id": "9781118008188",
+    "description": "A visually rich, full‑color introduction to HTML and CSS that makes learning web design easy and engaging for beginners and professionals alike.",
+    "image": "https://covers.openlibrary.org/b/id/12398906-M.jpg"
+  },
+  {
+    "genre": "Science Fiction / Fantasy (Star Wars Legends)",
+    "title": "Star Wars: Darth Plagueis",
+    "author": "James Luceno",
+    "year": 2012,
+    "id": "9780345511294",
+    "description": "A deep dive into the life and machinations of Darth Plagueis the Wise—the Sith Master of Palpatine—exploring his quest for immortality, political intrigue in the Galactic Senate, and the seeds of the dark side preceding the prequel era.",
+    "image": "https://ia601601.us.archive.org/view_archive.php?archive=/25/items/m_covers_0014/m_covers_0014_31.zip&file=0014317162-M.jpg"
+  },
+  {
+    "genre": "Academic / Sociology",
+    "title": "The Making of Social Theory: Order, Reason, and Desire",
+    "author": "Anthony Thomson",
+    "year": 2010,
+    "id": "9780195430301",
+    "description": "A comprehensive second‑edition survey tracing Western social thought from medieval society to early 20th century sociology, featuring new chapters on Marxism and social democracy.",
+    "image": "https://m.media-amazon.com/images/I/81VMYB-puGL.jpg"
+  },
+  {
+    "genre": "Science Fiction & Fantasy / Urban Superhero Romance",
+    "title": "Fire & Ice",
+    "author": "T.L. Heinrich",
     "year": 2020,
-    "description": "A reflective guide to tuning into your intuition and finding peace in everyday chaos.",
-    "image": "https://m.media-amazon.com/images/I/81af+MCATTL.jpg"
+    "id": "9781733188074",
+    "description": "Colleen, a vigilante in High Tide, faces family betrayal, forbidden romance, and federal agents as she navigates a dangerous showdown in this urban superhero fantasy.",
+    "image": "https://prodimage.images-bn.com/pimages/9781733188074_p0_v2_s600x595.jpg"
+  },
+
+  {
+    "genre": "Health / Alternative Medicine",
+    "title": "What Are Tumors?",
+    "author": "Herbert M. Shelton",
+    "year": 2006,
+    "id": "9781430423584",
+    "description": "A concise pamphlet-style examination of tumors from the perspective of natural hygiene, discussing causes, natural healing methods, and Shelton’s approach to disease.",
+    "image": "https://covers.openlibrary.org/b/id/2863271-M.jpg"
   },
   {
-    "id": "q8a9f561-e66d-456b-899e-1ec8e19005b2",
-    "genre": "True Crime",
-    "title": "The Maple Street Murders",
-    "author": "Diane Harker",
-    "year": 2017,
-    "description": "An investigative look into the unsolved killings that haunted a quiet Canadian town for a decade.",
-    "image": "https://m.media-amazon.com/images/I/91OINeHnJGL.jpg"
+    "genre": "Academic / Sociology Textbook",
+    "title": "The Study of Social Problems: Seven Perspectives",
+    "author": "Earl Rubington, Martin S. Weinberg",
+    "year": 1995,
+    "id": "9780195083675",
+    "description": "A theoretical anthology organizing social problems through seven sociological lenses—social pathology, social disorganization, value conflict, deviant behavior, labeling, critical perspective, and social constructionism—commonly used in university-level sociology courses.",
+    "image": "https://m.media-amazon.com/images/I/41X7WY2XDFL._AC_UF1000%2C1000_QL80_.jpg"
   },
   {
-    "id": "408770d7-e564-41c5-a434-baad5f94c5c6",
-    "genre": "Comedy",
-    "title": "Pizza, Please!",
-    "author": "Jess B. Crusty",
-    "year": 2047,
-    "description": "A hilarious tale of a pizza delivery driver who accidentally gets mistaken for a secret agent.",
-    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg"
+    "genre": "Young Adult Romance",
+    "title": "Antes de diciembre",
+    "author": "Joana Marcús",
+    "year": 2021,
+    "id": "9786073810555",
+    "description": "A passionate Wattpad-born romance about Jenna Brown navigating long-distance relationships, new friendships, and unexpected love as she counts down to December.",
+    "image": "https://covers.openlibrary.org/b/id/12080400-M.jpg"
   },
   {
-    "id": "1208c865-a871-4430-b928-781344b88654",
-    "genre": "7777",
-    "title": "7777",
-    "author": "Jess B.",
-    "year": 2047,
-    "description": "A hilarious tale of a pizza delivery driver who accidentally gets mistaken for a secret agent.",
-    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg"
+    "genre": "Reference / Genealogy",
+    "title": "The Troubleshooter's Guide to Do-It-Yourself Genealogy",
+    "author": "W. Daniel Quillen",
+    "year": 2010,
+    "id": "9781593601416",
+    "description": "An advanced DIY genealogy guide offering investigative techniques, research insights, and strategies to overcome common roadblocks, with in‑depth coverage of census, military, probate, church records, and regional research.",
+    "image": "https://m.media-amazon.com/images/I/71I8ueUTYBL._SY425_.jpg"
   }
 ]
